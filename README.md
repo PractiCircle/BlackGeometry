@@ -1,4 +1,4 @@
-Fire balls, icicle walls, darkness falls. Some may call it Black Magic, but I call it BLACK GEOMETRY.
+Fireballs, icicle walls, darkness falls. Some may call it Black Magic, but I call it BLACK GEOMETRY.
 
 - 👋 Hi, I’m @BlackGeometry
 - 👀 I’m interested in making fun code and useful code! I am currently considering making a Minecraft Forge mod and a discord bot.
